@@ -1,0 +1,15 @@
+{
+  "name": "serveurnodejs",
+  "version": "1.0.0",
+  "description": "Mise en place d'un serveur NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node-js"
+  },
+  "author": "Denis Demoineret",
+  "license": "ISC"
+}
